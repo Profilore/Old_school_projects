@@ -1,2 +1,2 @@
 # Old_school_projects
-Projects that I did for 42school 
+A few of the projects that I did for 42school.
