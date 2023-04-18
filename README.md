@@ -1,5 +1,5 @@
 # Old_school_projects
-## A few of the projects that I did for 42school.
+## Несколько проектов, которые я выполнила для 21-school.
 ### ft_Printf
 Урезанная копия стандартной функции printf. Она принимает строку и выводит ее в указанном формате.
 
